@@ -13,3 +13,6 @@ Etiquetas: Acondiconador_no1, Acondiconador_no2, Humidificador_no1, Humidificado
 Los valores se generan aleatoriamente con funciones random de Python.
 
 
+Visualización de la información disponible en la siguiente liga: http://localhost:3000/dashboard/db/new-dashboard
+InfluxDB user: root password:root
+Grafana user: admin  password:admin
